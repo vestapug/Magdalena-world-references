@@ -12,7 +12,7 @@
 - https://drive.google.com/drive/folders/18SZBdX2ovFNeitvpmw3YT09Ib3KERjRM?usp=drive_link
 - 💬 雑談や感想共有、ログの置き場所に使えるDiscordサーバー、『マグダレーナ世界・雑談広場』はこちら:
 - https://discord.com/channels/1361657376482267269/1362618478640496711
-- 🌴 『ようこそ、マグダ島へ！』の公開場所(ChatGPT)はこちら:
+- 🌴 『マグダ島物語』の公開場所(ChatGPT)はこちら:
 - https://chatgpt.com/g/g-684bc01d56348191b903a4138aa72c74-youkoso-makutadao-he
 
 - ガイドラインの下には、この設定を自由に使ったり、物語を作ったりしてもいいんだよ、ということが書かれています。
