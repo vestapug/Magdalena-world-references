@@ -8,12 +8,9 @@
 - 大丈夫です。何も知らなくても、どこから読んでもかまいません。
 - この世界は「読んでみたい」「遊んでみたい」という気持ちに、とてもやさしくできています。
 
-- 🔗 『マグダレーナ世界設定集』の公開場所(Googledrive)はこちら：
-- https://drive.google.com/drive/folders/18SZBdX2ovFNeitvpmw3YT09Ib3KERjRM?usp=drive_link
 - 💬 雑談や感想共有、ログの置き場所に使えるDiscordサーバー、『マグダレーナ世界・雑談広場』はこちら:
 - https://discord.gg/Z49HcuGr9n
-- 🌴  マグダ島を舞台にした日常系TRPG体験GPT、 『マグダ島TRPG日常記録帳』の公開場所(ChatGPT)はこちら:
-- https://chatgpt.com/g/g-684bc01d56348191b903a4138aa72c74-youkoso-makutadao-he
+
 
 - ガイドラインの下には、この設定を自由に使ったり、物語を作ったりしてもいいんだよ、ということが書かれています。
 - でも、まずは気になったキャラクターや異世界の紹介を、ちょっとだけのぞいてみてください。
