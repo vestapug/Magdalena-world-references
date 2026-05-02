@@ -1,5 +1,11 @@
 # 『マグダレーナ世界設定集』
 
+## Magdalena World Setting Collection
+- A free-to-use worldbuilding and character resource set.
+- You are free to use, modify, redistribute, and use it with AI.
+- Feel free to use it for stories, games, TRPGs, or even small jokes.
+- Credit is optional, but I’d love to hear your thoughts if you feel like sharing.
+
 ## 🐾 はじめてこの世界にふれたあなたへ
 - ようこそ、『マグダレーナ世界』へ！
 - ここは、いろんな異世界やキャラクターが集まる、ちょっと不思議であたたかな設定集です。
