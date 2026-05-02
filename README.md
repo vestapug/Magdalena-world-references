@@ -1,6 +1,6 @@
 # 『マグダレーナ世界設定集』
 
-## Magdalena World Setting Collection
+## 🐶 Magdalena World Setting Collection
 - A free-to-use worldbuilding and character resource set.
 - You are free to use, modify, redistribute, and use it with AI.
 - Feel free to use it for stories, games, TRPGs, or even small jokes.
